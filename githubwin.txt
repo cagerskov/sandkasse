@@ -1,0 +1,61 @@
+===============================================================================
+                             GitHub Windows-klient
+						 - en del af GitHubSandkasse
+-------------------------------------------------------------------------------
+
+!!! Manglende beskrivelse af, hvordan installere og sætter klienten op !!!
+
+Oprettelse af nyt projekt
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Hvis du har flere områder angivet under menupunktet github til venstre, 
+så vælg dig selv eller den organisation, som projektet skal oprettes under.
+
+I menupukterne øverst klikkes på Create.
+
+Et nyt dialogvindue med titlen new repository åbnes. Her udfyldes felterne 
+NAME og DESCRIPTION, angivelse af placering på den lokale pc og om filerne 
+skal skubbes op på GitHub (Put to GitHub) samt om koden skal være hemmelig 
+(Keep this code private), som dog kræver en betalingskonto hos GitHub.
+
+Klik på knappe CREATE nederst.
+
+Nu skal projektets filer enten flyttes til den lokale mappe for projektet, 
+eller projektets filer skal oprettes i denne mappe.
+
+Husk at oprette filen readme.txt med en kort introduktion til projektet 
+samt hvilken license, det udgives under.
+
+Committe den første udgave
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Når den første udgave er klar til at blive lagt op, vælges repositoriet ved at 
+klikke på pilen til højre for projektets navn.
+
+Til højre står nu "uncommitted changes", da intet er blevet indmeldt i den 
+lokale udgave af versionshåndteringssystemet Git endnu.
+
+Udfyld feltet COMMIT MESSAGE med en kort beskrivelse af det, som nu meldes 
+ind. Eksempelvis "Første udviklerudgave af projekt Sandkasse".
+
+Der kan angives en yderligere beskrivelse i feltet EXTENDED DESCRIPTION 
+eksempelvis "De første udgaver af hovedfilerne i projekt Sandkasse".
+
+Klik på knappen COMMIT
+
+Nu er ændringerne meldt ind i den lokale udgave af Git, men endnu ikke lagt 
+op (offentliggjort) på GitHub endnu.
+
+Offentliggør den første udgave
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Klik på menupunktet publish i den øverste menu.
+
+Der går lidt tid, hvor efter menupunktet skifter navn til in sync, og 
+projektet er nu synkroniseret og der med offentliggjort på GitHub.
+
+Tilføje en fil til projektet
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Opret først en ny fil eller kopier en til projektets mappe.
+
+
+
+===============================================================================
+Claus Agerskov claus@agerskov.net 
