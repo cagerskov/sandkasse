@@ -1,0 +1,5 @@
+Sandkasse 0.01
+==============
+Dette kan ende med en dansk beskrivelse af, hvordan man bruger Git og GitHub.
+
+Claus Agerskov claus@agerskov.net
