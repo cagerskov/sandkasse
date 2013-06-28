@@ -1,0 +1,15 @@
+===============================================================================
+                      Gøremål for GitHubSandkasse (todo-list)
+-------------------------------------------------------------------------------
+
+Vejledning i brug af GitHub Windows-klient
+  Påbegyndt. Som tekstfilen githubwin.txt.
+
+Vejledning i brug af Git og GitHub i terminal
+  Påbegyndt. Som tekstfilen githublin.txt.
+
+Kvikreference i brug af Git i terminal.
+  Påbegyndt. Udgivet i version 0.01 som ODF og PDF.
+
+===============================================================================
+Claus Agerskov claus@agerskov.net 
