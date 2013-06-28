@@ -1,6 +1,6 @@
 ===============================================================================
                              GitHub Windows-klient
-						 - en del af GitHubSandkasse
+                                                 - en del af GitHubSandkasse
 -------------------------------------------------------------------------------
 
 !!! Manglende beskrivelse af, hvordan installere og sætter klienten op !!!

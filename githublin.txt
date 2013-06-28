@@ -1,0 +1,32 @@
+===============================================================================
+                             Git i din terminal
+                          - en del af GitHubSandkasse
+-------------------------------------------------------------------------------
+
+Installering af Git
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Git kan installeres og benyttes i terminalen på alle Posix-baserede systemer 
+herunder de forskellige Unix-varianter, BSD'er og Linux.
+
+Hvordan Git hentes og installeres på netop det system, du benytter må du selv 
+finde ud af, da det er for omfattende at beskrive her de mange forskellige 
+metoder, de forskellige systemer og distributioner benytter.
+
+På et senere tidspunkt kan forskellige installeringsvejledninger muligvis blive
+en del af dokumentationen.
+
+Verifikation af Git
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Du kan dog undersøge, om Git er installeret og i hvilken version ved at skrive 
+kommandoen
+
+  git --version
+
+For at fungere ordentlig med GitHub skal det pr. 2013-06-27 være version 1.7.10 
+eller nyere.
+
+Opsætning af Git
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+
+===============================================================================
+2013 Claus Agerskov claus@agerskov.net 
