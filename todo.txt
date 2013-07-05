@@ -15,5 +15,11 @@ Kvikreference i brug af Git i terminal.
 Dansk hjemmeside om brug af Git og GitHub
   Ikke påbegyndt.
 
+Problemer:
+  Fejlen 'cannot run git-credential-cache--daemon' på Linux-testmaskinen.
+    Når ændringer lægges op eller hentes ned gives ovenstående fejlbesked vedr.
+    håndtering af brugernavn og adgangskode, som gerne skulle gemmes i et 
+    stykke tid.
+
 ===============================================================================
 Claus Agerskov claus@agerskov.net 
