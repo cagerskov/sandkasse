@@ -1,6 +1,16 @@
 ===============================================================================
                       Log over ændringer i GitHub Sandkasse
 -------------------------------------------------------------------------------
+2013-07-05 Udgave 0.03
+  Git Kvikref 0.02 som ODF og PDF. Med håndtering af fjernsteder.
+    git-kvikref.odf
+	git-kvikref.pdf
+
+  Readme-filen er blevet opdateret med projektets hjemmeside.
+    readme.txt
+    changelog.txt
+    
+
 2013-06-28 Udgave 0.02
   Tilføjet første udgave af Git Kvikref, en hurtig, dansk reference på en 
   A4-side i brug af Git i en terminal. Kvikrefen er skrevet i ODF.
@@ -12,7 +22,6 @@
 	
   Udseendet af ændringsloggen tilpasse udseendet af de andre tekstfiler.
     changelog.txt
-
 2013-06-21 Udgave 0.01 
   Første udgave.
 		   

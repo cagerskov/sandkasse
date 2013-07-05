@@ -4,6 +4,9 @@
 -------------------------------------------------------------------------------
 GitHubSandkasse is a Danish sandbox project about using Git and GitHub.
 
+You can find more info in Danish at the website
+  https://github.com/cagerskov/sandkasse
+  
 All the material is distributed under Creative Commons ShareAlike (by-sa). See 
 more about Creative Commons at the website http://www.creativecommons.org
 
@@ -14,8 +17,12 @@ Sandkasse er en dansk legeplads til at afprøve mulighederne i Git og GitHub.
 
 Dog ovejes det, om der skal skrives om, hvordan man udarbejder en sandkasse.
 
+Du kan se mere om projektet på GitHub-siden 
+  https://github.com/cagerskov/sandkasse
+
 Al materialet udgives under Creative Commons ShareAlike (by-sa). Se mere om 
 Creative Commons på den danske hjemmeside http://www.creativecommons.dk/ eller 
 den oprindelige på engelsk på http://www.creativecommons.org
+
 ===============================================================================
 Claus Agerskov claus@agerskov.net
