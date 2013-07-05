@@ -74,16 +74,16 @@ Unpacking objects: 100% (10/10), done.
 
 Angive et nyt fjernsted
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
-ca@gateway:~/GitHub/sandkasse> git remote add master  https://github.com/cagerskov/sandkasse.git
+ca@pc:~/GitHub/sandkasse> git remote add master  https://github.com/cagerskov/sandkasse.git
 
 Hente ændringer fra et fjernsted
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
-ca@gateway:~/GitHub/sandkasse> git fetch
+ca@pc:~/GitHub/sandkasse> git fetch
 From https://github.com/cagerskov/sandkasse
    4fcf5fa..143f624  master     -> origin/master
-ca@gateway:~/GitHub/sandkasse> ls
+ca@pc:~/GitHub/sandkasse> ls
 changelog.txt  githubwin.txt  readme.txt  sandkasse.txt
-ca@gateway:~/GitHub/sandkasse> git pull
+ca@pc:~/GitHub/sandkasse> git pull
 Updating 4fcf5fa..143f624
 Fast-forward
  git-kvikref.odt |  Bin 0 -> 18084 bytes
@@ -103,16 +103,16 @@ Unpacking objects: 100% (6/6), done.
 From https://github.com/cagerskov/sandkasse
  * [new branch]      master     -> master/master
  
-ca@gateway:~/GitHub/sandkasse> vi todo.txt
-ca@gateway:~/GitHub/sandkasse> git add todo.txt
-ca@gateway:~/GitHub/sandkasse> git commit todo.txt
+ca@pc:~/GitHub/sandkasse> vi todo.txt
+ca@pc:~/GitHub/sandkasse> git add todo.txt
+ca@pc:~/GitHub/sandkasse> git commit todo.txt
 [master 56fea98] Tilføjet en liste over gøremål for projektet.
  1 file changed, 15 insertions(+)
  create mode 100644 todo.txt
-ca@gateway:~/GitHub/sandkasse> git push todo.txt
+ca@pc:~/GitHub/sandkasse> git push todo.txt
 fatal: Invalid gitfile format: todo.txt
 fatal: The remote end hung up unexpectedly
-ca@gateway:~/GitHub/sandkasse> git push
+ca@pc:~/GitHub/sandkasse> git push
 Username for 'https://github.com': cagerskov
 Password for 'https://cagerskov@github.com':
 error: cannot run git-credential-cache--daemon: No such file or directory
