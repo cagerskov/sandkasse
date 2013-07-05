@@ -1,4 +1,20 @@
+===============================================================================
+                      Log over ændringer i GitHub Sandkasse
+-------------------------------------------------------------------------------
+2013-06-28 Udgave 0.02
+  Tilføjet første udgave af Git Kvikref, en hurtig, dansk reference på en 
+  A4-side i brug af Git i en terminal. Kvikrefen er skrevet i ODF.
+    git-kvikref.odf
+	git-kvikref.pdf
+  
+  Påbegyndt vejledning i brug af Git i en terminal.
+    githublin.txt
+	
+  Udseendet af ændringsloggen tilpasse udseendet af de andre tekstfiler.
+    changelog.txt
+
 2013-06-21 Udgave 0.01 
-           Første udgave.
+  Første udgave.
 		   
+===============================================================================
 Claus Agerskov claus@agerskov.net
