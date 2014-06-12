@@ -1,6 +1,22 @@
 ===============================================================================
                       Log over ændringer i GitHub Sandkasse
 -------------------------------------------------------------------------------
+2013-07-05 Udgave 0.04
+  GitHub Windows-klientvejledningen er tilføjet afsnit om deltagelse i et 
+  eksisterende projekt.
+    githubwin.txt
+
+  Git Kvikref 0.03 som ODF og PDF. Erstattet forkerte dobbelte anførselstegn 
+  med de rigtige, så det er muligt at kopiere kommandoerne ind i konsollen. 
+  Tilføjet eksempel på tilføjelse og indmeldelse af alle ændringer i to 
+  efterfølgende kommandoer.
+    git-kvikref.odf
+	git-kvikref.pdf
+	
+  Opdateret gøremålsfilen med en credential-fejl som skal rettes på Linux-
+  testmaskinen.
+    todo.txt
+
 2013-07-05 Udgave 0.03
   Git Kvikref 0.02 som ODF og PDF. Med håndtering af fjernsteder.
     git-kvikref.odf

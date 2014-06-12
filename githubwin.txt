@@ -56,6 +56,45 @@ Tilføje en fil til projektet
 Opret først en ny fil eller kopier en til projektets mappe.
 
 
+Deltage i et eksisterende projekt
+=================================
+
+Når du har fundet et eksisterende projekt, som du gerne vil deltage i, skal 
+du på en eller anden måde blive en del af projektet. Mange projekter har 
+beskrevet på deres GitHub-wiki, hvordan man kan bidrage. Også med bidrag til 
+selve kildekoden. Hvis det ikke er beskrevet, så prøv at kontakte en af 
+udviklerne bag. 
+
+Da der er mange måder at drive sit projekt på, vil det ikke blive nærmere 
+beskrevet i denne vejledning, hvordan man bliver deltager i et projekt.
+
+Den efterfølgende vejledning er, når man er blevet deltager eller har fået 
+at vide, at det er netop på denne måde, at man bliver deltager i projektet.
+
+Men husk at få det afklaret først, da man lettere bliver accepteret i et 
+projekt, hvis man har fulgt projektet måde at blive deltager på.
+
+Klone et eksisterende projekt
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+Sikr dig at GitHub Windows-klienten er startet.
+
+I en webbrowser skal du finde det projekt, som du skal deltage i på GitHub 
+eventuelt ved at søge efter projektet på selve GitHub eller måske er blevet 
+henvist til projektets GitHub-side. 
+
+Lige under overskriften GitHub står projektets ejer efterfulgt af projektets 
+navn. 
+
+Klik på projektets navn og træk den over i GitHub Windows-klienten, som åbnes, 
+og ned på området i midten med teksten "drag a repository here to add".
+
+Så klones projektet til en lokal kopi på din Windows-maskine.
+
+Efter kloningen kan du arbejde med projektet ved at følge vejledningerne i de 
+øvrige afsnit.
+
+
+
 
 ===============================================================================
-Claus Agerskov claus@agerskov.net 
+Claus Agerskov claus@agerskov.net
