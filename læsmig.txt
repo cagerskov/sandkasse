@@ -1,0 +1,7 @@
+===============================================================================
+                       GitHubSandkasse Læsmig
+				   - en del af GitHubSandkasse
+-------------------------------------------------------------------------------
+Se filen readme.txt i stedet for en dansk beskrivelse under den engelske. 
+===============================================================================
+Claus Agerskov claus@agerskov.net
